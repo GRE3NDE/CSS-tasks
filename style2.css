@@ -1,0 +1,18 @@
+.cool {
+  background-color: #000000;
+  padding: 10px;
+}
+.linkone {
+  color: red;
+}
+.linktwo {
+  color: lightblue;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}
+.linkthree {
+  color: yellowgreen;
+}
+a {
+  padding: 0px 5px 0px 5px;
+}
